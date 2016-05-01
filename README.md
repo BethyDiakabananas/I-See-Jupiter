@@ -1,2 +1,2 @@
-# I-See-Jupiter
-Displays Jupiter's coordinates in Open Street Map
+# I See Jupiter
+Displays Jupiter's closest coordinates to Earth in Open Street Map Viewer
